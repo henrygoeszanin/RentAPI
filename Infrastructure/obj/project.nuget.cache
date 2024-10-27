@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UcTHetBtOnA=",
+  "dgSpecHash": "sbtysxQaH7o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henry\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\henry\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
