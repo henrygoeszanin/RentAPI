@@ -1,0 +1,80 @@
+# Logs
+logs
+*.log
+*.log.*
+
+# Arquivos de banco de dados do EF Core (opcional, se não versionados)
+*.mdf
+*.ldf
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Visual Studio e outras IDEs
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Diretórios de build
+bin/
+obj/
+out/
+
+# Configurações de publicação e debug
+*.pubxml
+*.pubxml.user
+*.rsuser
+*.pdb
+
+# Configurações locais e arquivos de cache do NuGet
+*.dbmdl
+*.jfm
+*.d.ts
+*.cache/
+*.seed
+# Diretório de pacotes
+packages/
+**/node_modules/
+
+# Configurações temporárias e backups de IDE
+*.bak
+*.swp
+*.temp
+*.tmp
+*.old
+
+# Arquivos de deploy
+.publish/
+.deployments/
+
+# Secretos e configuração local (não versione informações sensíveis)
+appsettings.*.json
+appsettings.Development.json
+
+# Arquivos gerados automaticamente
+*.generated.cs
+GeneratedFiles/
+
+# Arquivos de lock e histórico
+project.lock.json
+project.fragment.lock.json
+
+# Diretórios de teste (opcional, remova se desejar versionar testes)
+TestResults/
+*.TestResult.xml
+
+# Docker (opcional, se estiver usando Docker)
+docker-compose.override.yml
+.env
+
+# Arquivos de cache e temporários do sistema operacional
+*.tmp
+*.temp
+*.bak
+*.swp

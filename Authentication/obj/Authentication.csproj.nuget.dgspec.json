@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\Authentication.csproj": {}
+    "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\Authentication.csproj": {}
   },
   "projects": {
-    "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj": {
+    "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\obj\\",
+        "outputPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\Authentication.csproj": {
+    "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\Authentication.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\Authentication.csproj",
         "projectName": "Authentication",
-        "projectPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\Authentication.csproj",
+        "projectPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\Authentication.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\obj\\",
+        "outputPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,11 +100,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj": {
-                "projectPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj"
+              "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Application\\Application.csproj"
               },
-              "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\henry\\Documents\\Repositorios\\RentAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",

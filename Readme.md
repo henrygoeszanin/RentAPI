@@ -52,4 +52,4 @@ O **RentAPI** é uma API monolítica que permite o gerenciamento de imóveis par
 - **Arquitetura**: Clean Architecture.
 - **Padrão**: API RESTful monolítica.
 - **Autenticação e Autorização**: Controle de acesso para clientes e locatários.
-- **Banco de Dados**: Integrado com Entity Framework para persistência dos dados.
+- **Banco de Dados**: Integrado com Entity Framework para persistência dos dados PostgreSQL.
