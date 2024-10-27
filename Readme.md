@@ -53,3 +53,18 @@ O **RentAPI** é uma API monolítica que permite o gerenciamento de imóveis par
 - **Padrão**: API RESTful monolítica.
 - **Autenticação e Autorização**: Controle de acesso para clientes e locatários.
 - **Banco de Dados**: Integrado com Entity Framework para persistência dos dados PostgreSQL.
+
+## Versionamento
+
+Para o versionamento do projeto **RentAPI**, adotaremos a seguinte estrutura de branches:
+
+1. **Main**: Esta branch será a versão estável da aplicação. Todo o código que estiver na branch Main deve estar pronto para produção.
+
+2. **Dev**: A branch de desenvolvimento. Todas as funcionalidades e correções devem ser integradas aqui antes de serem mescladas na branch Main.
+
+3. **Test**: Usada para testes de funcionalidades específicas. Funcionalidades que foram desenvolvidas e precisam ser testadas antes de serem integradas à branch Dev.
+
+### Fluxo de Trabalho
+- Para cada nova funcionalidade, crie uma branch específica a partir da branch **Dev**. 
+- Uma vez que a funcionalidade estiver concluída, faça a mesclagem (merge) da branch de funcionalidade de volta na branch **Dev**.
+- Sempre puxe as últimas alterações da branch **Dev** para a sua branch de funcionalidade antes de fazer um commit, garantindo que você esteja trabalhando com a versão mais recente do código.
